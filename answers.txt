@@ -1,0 +1,4 @@
+* 6 branches in total (including default): master, index, bower, package, landing.ru and landing
+* index has been merged into master
+* 16 commits (git rev-list --all --count)
+* package only commits are: "added package", "added locked package" and "removed lock"
